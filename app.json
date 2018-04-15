@@ -7,7 +7,7 @@
   "env":{
     "APIKEY":{
       "description": "Youtube API V3 KEY",
-      "value": ""
+      "value": "AIzaSyDcx99nu0nNv05zof-HtE_1O3NM02v1O38"
     },
     "GJ_CODE":{
       "description": "地区代码，HK,SG,US  ISO_3166-1",
@@ -27,7 +27,7 @@
     },
     "EMAIL":{
       "description": "邮箱",
-      "value": ""
+      "value": "hbxntsxw@gmail.com"
     }
   }
 }
